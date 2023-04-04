@@ -1,5 +1,5 @@
-package BUS;
+package DTO;
 
-public class GroupBUS {
-
+public class GroupDTO {
+	
 }
