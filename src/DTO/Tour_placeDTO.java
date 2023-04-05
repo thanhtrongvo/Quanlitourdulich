@@ -1,5 +1,5 @@
-package BUS;
+package DTO;
 
-public class Tour_placeBUS {
+public class Tour_placeDTO {
 
 }
