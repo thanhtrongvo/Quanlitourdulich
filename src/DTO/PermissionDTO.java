@@ -1,5 +1,8 @@
-package BUS;
+package DTO;
 
-public class PermissionBUS {
-
+public class PermissionDTO {
+	String strPerId,strPerName,strPerCode ;
+	public PermissionDTO() {
+		
+	}
 }
