@@ -20,7 +20,7 @@ import javax.swing.BoxLayout;
 import javax.swing.SwingConstants;
 
 public class EmpManager extends JFrame {
-	
+	private BorderLayout borderLayout1;
 	private BorderLayout borderLayout;
 	private JPanel pnlHeader;
 	private JLabel lblHeaderTitle;
